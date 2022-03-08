@@ -7,6 +7,9 @@ Android core components:
 - Background Service (delete cards from Room DB)
 - Alarm Manager (set specific notifications time)
 
+Analytics
+- Firebase Crashlytics
+
 
 <a href="https://play.google.com/store/apps/details?id=com.me.reminder"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=100px /></a>
 
